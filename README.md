@@ -1,5 +1,5 @@
 **IMPORTANT** 
-这是粒子效果
+这是粒子效果，适合背景和登陆效果图
 This repository is no longer maintained. If anyone wants to continue work on Particleground I recommend creating your own fork. Thanks to those who contributed to this project.
 
 <hr>
